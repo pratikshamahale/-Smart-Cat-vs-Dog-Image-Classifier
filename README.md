@@ -47,12 +47,11 @@ cat-dog-classifier-gradio/
 
 
 
----
 
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/your-username/cat-dog-classifier-gradio.git
 cd cat-dog-classifier-gradio
 
